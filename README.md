@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Правила чата Zreyk'a</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+        }
+
+        .header {
+            background-color: #007bff; /* Синий цвет */
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin: 0;
+            font-weight: bold;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .rules {
+            list-style: decimal;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Правила чата Zreyk'a</h1>
+    </div>
+
+    <div class="content">
+        <ul class="rules">
+            <li>Уважайте собеседников</li>
+            <li>Избегайте спама/флуда</li>
+            <li>Будьте вежливы в общении</li>
+            <li>Не обсуждайте политику</li>
+            <li>Запрещён контент 18+</li>
+            <li>Реклама не приветствуется</li>
+        </ul>
+    </div>
+</body>
+</html>
